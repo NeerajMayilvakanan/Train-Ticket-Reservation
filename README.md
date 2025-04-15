@@ -80,8 +80,6 @@ The project uses several text files for storing data:
 ## Installation
 
 Clone the repository:
-
-```bash
 git clone <repository-url>
 
 Navigate to the project directory:
@@ -92,6 +90,8 @@ gcc -o train_booking train_booking.c
 
 Run the compiled program:
 ./train_booking
+
+---
 
 ## Usage
 
