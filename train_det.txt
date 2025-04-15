@@ -1,0 +1,3 @@
+1        1234     Pandyan_Express           Erode                     06:15    12:25    Chennai                   650.000000 
+2        4007     NK_Express                Madurai                   04:00    12:00    Chennai                   462.000000 
+3        1659     Chennai_Express           Erode                     23:00    05:20    Chennai                   550.000000 
